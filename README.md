@@ -5,7 +5,9 @@ I work for Amazing Prime Video that is a platform for streaming movies and TV sh
 Lesson 1 was an overview the Extract, Transform, and Load process. No exercises were completed in this lesson.
 ## Lesson 2: Extract the Data
 I created my GitHub repository and downloaded a JSON file containing movie information. I loaded the JSON file into a list of dictionaries instead of a dataframe. Approximately 7,311 records were pulled in. (I have a feeling that a lot of cleaning is going to be performed on the data.) Additionally, I extracted a large zip file from Kaggle and a smaller file on ratings to help with our analysis.
-Lesson 3: Transform: Clean Individual Datasets
+## Lesson 3: Transform: Clean Individual Datasets
 Oh my goodness; this was a rough section.  It contained a lot of information and steps.  The hardest part was cleaning the Wikipedia dataset.  That took several hours.  I learned about lambda functions and regular expressions.  Both came in very handy.  I also cleaned the Kaggle and Ratings datasets, which were easier.   
-Lesson 4:  Transform:  Merge Datasets
+## Lesson 4:  Transform:  Merge Datasets
 In this lesson, I cleaned and merged the Wikipedia and Kaggle datasets and then merged into the movies dataframe.  In the second exercise, I merged cleaned and merged the rating dataset into the movies dataframe.  
+## Problems with GitBash
+Something has happended to my path through GitBash.  Everytime I try to upload files via GitBash, I get an error message.  I have tried numerous steps at outlined in Git, to correct the issue; however, nothing has worked.  I keep losing my work after I try to push the files.  I have had to redo my completed work several times.  I will reach out to askBCS for advice after I complete this module.  
